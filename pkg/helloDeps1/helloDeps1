@@ -1,4 +1,4 @@
-package github.com/xtechware/make-example-deps1/helloDeps1
+package github.com/xtechware/make-example-deps1/pkg/helloDeps1
 
 import "fmt"
 
