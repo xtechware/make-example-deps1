@@ -1,0 +1,8 @@
+package HelloDeps1
+
+import "fmt"
+
+func PrintPhrase(phrase string) string {
+	fmt.Println(phrase, "called HelloDeps1.PrintPhrase")
+	return phrase
+}
