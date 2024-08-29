@@ -5,3 +5,4 @@ Minor version v1.1.0
 Minor version v1.2.0
 Major version v2.0.0
 Minor version v2.1.0
+Minor version v2.2.0
